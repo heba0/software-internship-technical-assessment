@@ -1,0 +1,27 @@
+{
+  "name": "software-internship-technical-assessment",
+  "version": "1.0.0",
+  "description": "A coding assessment to be done by ENPICOM software engineering internship candidates",
+  "main": "tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heba0/software-internship-technical-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heba0/software-internship-technical-assessment/issues"
+  },
+  "homepage": "https://github.com/heba0/software-internship-technical-assessment#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}
