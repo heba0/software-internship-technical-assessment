@@ -13,7 +13,7 @@ const main = async () => {
     //get input
     const it = rl[Symbol.asyncIterator]();
     let inp = await it.next();
-    let creditCardNo = inp.value
+    let creditCardNo = inp.value;
 
     //remove space    
     creditCardNo = creditCardNo.replace(/\s/g, "");
